@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Shampoo",
+      "price": 100,
+      "category": "Shampoo",
+      "description": "Description 1",
+      "image": "https://images.bblunt.com/catalog/product/c/u/curly-hair-shampoo.jpg?format=auto&height=600"
+    },
+    {
+      "id": 2,
+      "name": "Facewash",
+      "price": 200,
+      "category": "Facewash",
+      "description": "Description 2",
+      "image": "https://m.media-amazon.com/images/I/41qlpafXP1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Deodrant",
+      "price": "200",
+      "category": "Deodrant",
+      "description": "very nice",
+      "image": "https://m.media-amazon.com/images/I/31hePHdLuEL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 11
+    },
+    {
+      "name": "Nike air jordan",
+      "price": "10000",
+      "category": "shoes",
+      "description": "sneakers",
+      "image": "data:image/jpeg;base64,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",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user123"
+    }
+  ],
+  "cart": [
+    {
+      "cartId": "e1a93809-44f6-4c51-9d1c-7ec7185fc612",
+      "products": [
+        {
+          "id": 1,
+          "name": "Shampoo",
+          "price": 100,
+          "cartId": "e1a93809-44f6-4c51-9d1c-7ec7185fc612"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "cartId": "eaccebfa-d537-4ccb-ae15-3d6ce5056de4",
+      "products": [
+        {
+          "id": 2,
+          "name": "Facewash",
+          "price": 200,
+          "cartId": "eaccebfa-d537-4ccb-ae15-3d6ce5056de4"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cartId": "cb592be4-2abb-4253-a2d6-84930ee2be5a",
+      "products": [
+        {
+          "id": 1,
+          "name": "Shampoo",
+          "price": 100,
+          "cartId": "cb592be4-2abb-4253-a2d6-84930ee2be5a"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "cartId": "146074c3-095f-4a7a-a05a-93b9a02ea9bd",
+      "products": [
+        {
+          "id": 2,
+          "name": "Facewash",
+          "price": 200,
+          "cartId": "146074c3-095f-4a7a-a05a-93b9a02ea9bd"
+        },
+        {
+          "id": 1,
+          "name": "Shampoo",
+          "price": 100,
+          "cartId": "146074c3-095f-4a7a-a05a-93b9a02ea9bd"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "cartId": "3bdcb34f-85fc-4ed6-837a-5e5d383d9a85",
+      "products": [
+        {
+          "id": 1,
+          "name": "Shampoo",
+          "price": 100
+        },
+        {
+          "id": 2,
+          "name": "Facewash",
+          "price": 200
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
